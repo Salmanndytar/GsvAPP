@@ -1,6 +1,6 @@
 # GsvAPP
 Gestion de Stock/vente
-Le projet n'est pas encor chrgé
+Le projet n'est pas encor chrgé parcontre l'application est disponible via le lien suivant : https://drive.google.com/file/d/1MY7gz12aHow7PIfxwy48UncaBESU4F4a/view?usp=sharing
 <h4>Tableau de bord <h4/>
 <img width="1366" height="620" alt="Screenshot 2025-11-28 at 10-23-50 StockVente" src="https://github.com/user-attachments/assets/e9fae5d1-e672-40c3-8f2d-37bcaf2c72fc" />
 <hr/>
